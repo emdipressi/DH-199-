@@ -11,6 +11,7 @@
 ## Schedule 
 **Week 1**
 CITI training and web documentation 
+
 **Week 2**
 Literature review. Review of past projects and how mine will be new. 
 **Week 3**
