@@ -16,6 +16,10 @@
 
 ## Expected Outcome 
 
+* My expected outcome is to have a fully designed and developed app that can show a user, from start to finish, every step that is needed to build a piece of furniture including how to finish it. My app will have detailed instructions for each step. It will have a section for all tools needed and where to find them.
+
+* The project will culminate in a web documentation of the design process, an interactive prototype, and a research paper. 
+
 ## Schedule 
 **Week 1**
 CITI training and web documentation 
