@@ -6,6 +6,10 @@
 
 ## Design Statement 
 
+* I believe that there is a gap on the internet for sites that have a collection of all of the necessary steps together, in a specific design style, for building a piece of furniture. I think the user experience can be improved by creating a space that has every possible technique explained in one application. Having a way to check progress and measure the work-in-progress piece against a final project that is done right is an important feature to have, that is not in all furniture sites on the internet.
+
+* I will use a user-centered design process by conducting user research, a literature review, storytelling (persona/ usage scenario, or journey map), wireframing/wireflow, low-fidelity prototyping, graphic/sound design & high-fidelity prototyping, and usability testing to develop my app.
+
 ## Expected Outcome 
 
 ## Schedule 
