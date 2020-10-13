@@ -4,6 +4,10 @@
 
 ## Project Description 
 
+* My project that I have chosen is to design an app that will teach a user how to build a piece of furniture from scratch. This is an important project to me because my family and I are avid makers and oftentimes the internet does not always have the exact steps for the specific pieces we want to make that are in our exact style. Going to the store and buying a new piece of furniture is not always an option, either.
+
+* I believe I want to demonstrate how to make a “Shabby Chic Large Frame Bulletin Board”. My mom and I re-designed my bedroom in 2015 and we could not find the right bulletin board for my room, so we decided to make our own, but it became quite a challenge since we were new to the process of making things with wood and fully refinishing them. We had to do a lot of research on individual topics on various sites on the internet. For us, it would have been immensely helpful to have had an app that had every process listed and described in one place, rather than going to a different site everytime we needed to know how to do a different technique.
+
 ## Design Statement 
 
 * I believe that there is a gap on the internet for sites that have a collection of all of the necessary steps together, in a specific design style, for building a piece of furniture. I think the user experience can be improved by creating a space that has every possible technique explained in one application. Having a way to check progress and measure the work-in-progress piece against a final project that is done right is an important feature to have, that is not in all furniture sites on the internet.
