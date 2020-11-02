@@ -29,7 +29,7 @@
   * Source: [Pushing the Limits of Design Fiction: The Case For Fictional Research Papers](https://www.youtube.com/watch?v=8uwAxyR6P1A&feature=youtu.be) 
 
 * “Using fiction to test the use and acceptance of unusual designs” 
-  * Source: [The Reality of Design Fiction: How Storytelling Can Save the World] https://commonedge.org/the-reality-of-design-fiction-how-storytelling-can-save-the-world/ 
+  * Source: [The Reality of Design Fiction: How Storytelling Can Save the World](https://commonedge.org/the-reality-of-design-fiction-how-storytelling-can-save-the-world/) 
 
 * For my project the prototype will have some imaginative aspects 
 * Make an interactive video or do a very detailed/elaborate instruction 
