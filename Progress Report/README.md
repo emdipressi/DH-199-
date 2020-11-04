@@ -12,6 +12,12 @@
 
 **Lit Review**
 
+* Blogs → videos, pictures with descriptions
+* Article →  using cognitive motions already familiar to people. 
+
+* Need to do more on design fiction and online learning. 
+
+
 **Research Plan & Method** 
 
 * Video/phone call interview based on previous work. 
