@@ -8,7 +8,7 @@ I interviewed her and asked questions about how to refinish an object to look sh
 
 Link to Questions and Answers: [Colleen Interview](https://docs.google.com/document/d/1Y75jBxtU4DGu1mj5DpIeUTsT-O_smlXpNZ5gwcKRqCE/edit?usp=sharing) 
 
-**Interview with Thomas DiPressi 
+**Interview with Thomas DiPressi** 
 
 I will interview Thomas DiPressi later this week. 
 
