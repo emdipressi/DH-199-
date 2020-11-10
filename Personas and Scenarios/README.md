@@ -13,7 +13,7 @@ Persona 2
 ## User Journey Map 
 
 Persona 1
-![InezJourney](inezjourney)
+![InezJourney](inezjourney.png)
 
 Persona 2
-![TimJourney}(timjourney) 
+![TimJourney](timjourney.png) 
