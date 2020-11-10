@@ -12,8 +12,8 @@
 
 ## User Journey Map 
 
-## Persona 1
+## Persona 1: Inez
 ![InezJourney](inezjourney.png)
 
-## Persona 2
+## Persona 2: Tim
 ![TimJourney](timjourney.png) 
