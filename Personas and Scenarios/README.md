@@ -11,3 +11,9 @@ Persona 2
 ![TimPersona](timpersona.png) 
 
 ## User Journey Map 
+
+Persona 1
+![InezJourney](inezjourney)
+
+Persona 2
+![TimJourney}(timjourney) 
