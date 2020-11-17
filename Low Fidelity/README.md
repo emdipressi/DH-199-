@@ -14,8 +14,7 @@ I have a few screens including a home page, a hamburger menu, and two options to
 
 I have a few ideas to work through after doing my own cognitive walk-through that I need to compare to a user’s evaluation and walk-through. 
 
-<img src="note1.png" width="350"> 
-<img src="note2.png" width="400"> 
+<img src="note1.png" width="400"> <img src="note2.png" width="400"> 
 
 
 ## Additional Notes 
