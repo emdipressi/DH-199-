@@ -8,12 +8,13 @@ I have here a rough low fidelity prototype of the app I want to create to show h
 
 I have a few screens including a home page, a hamburger menu, and two options to find projects to make. 
 
-![Wireframe/flow](flow.pdf)
+![Wireframe/flow](flow.png)
 
 ## Self Cognitive Walk-through
 
 I have a few ideas to work through after doing my own cognitive walk-through that I need to compare to a user’s evaluation and walk-through. 
 
+![notes 1](note1.png)
 
 ## Additional Notes 
 
