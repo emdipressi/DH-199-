@@ -21,7 +21,7 @@ I have a few ideas to work through after doing my own cognitive walk-through tha
 
 With the advice of Professor Sookie, I have changed my design from a phone app to a desktop window screen. I agree that this would be best as a web screen as an app is very small. I also think the user would most likely use this on their desktop, rather than cell phone. 
 
-<img src="home.png" width="400"> <img src="howto.png" width="410"> <img src="construct.png" width="400">
+<img src="homepage.png" width="400"> <img src="howto.png" width="410"> <img src="construct.png" width="400">
 
 
 
