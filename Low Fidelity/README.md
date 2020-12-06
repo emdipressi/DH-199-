@@ -2,7 +2,7 @@
 
 ## Emily DiPressi 
 
-## Wireframe/Wireflow 
+## Wireframe/Wireflow: Part 1
 
 I have here a rough low fidelity prototype of the app I want to create to show how to make a shabby chic picture frame bulletin board. 
 
@@ -10,11 +10,19 @@ I have a few screens including a home page, a hamburger menu, and two options to
 
 ![Wireframe/flow](flow.png)
 
-## Self Cognitive Walk-through
+## Self Cognitive Walk-through: Part 1
 
 I have a few ideas to work through after doing my own cognitive walk-through that I need to compare to a user’s evaluation and walk-through. 
 
 <img src="note1.png" width="400"> <img src="note2.png" width="410"> 
+
+
+## Wireframe: Part 2
+
+With the advice of Professor Sookie, I have changed my design from a phone app to a desktop window screen. I agree that this would be best as a web screen as an app is very small. I also think the user would most likely use this on their desktop, rather than cell phone. 
+
+<img src="home.png" width="400"> <img src="howto.png" width="410"> <img src="construct.png" width="400">
+
 
 
 ## Additional Notes 
