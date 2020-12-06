@@ -21,7 +21,17 @@ I have a few ideas to work through after doing my own cognitive walk-through tha
 
 With the advice of Professor Sookie, I have changed my design from a phone app to a desktop window screen. I agree that this would be best as a web screen as an app is very small. I also think the user would most likely use this on their desktop, rather than cell phone. 
 
-<img src="homepage.png" width="400"> <img src="howto.png" width="410"> <img src="construct.png" width="400">
+<img src="homepage.png" width="600"> 
+
+This is my homepage that has the name of the webpage (Wood Creations). I was deciding between having a hamburger menu for the user to click on to see the different navigation options and having them listed across the top. 
+
+<img src="howto.png" width="600"> 
+
+Once the user clicked navigated to the page for “How to Build a Shabby Chic Bulletin Board” they would be brought to this page. It has an About page, a Construction page, Finishing page, and Bulletin Board page. That would be indicated at the top in either a different background color or text color to indicate to the user where they are in the app (visibility of system status and user control and freedom).
+
+<img src="construct.png" width="600">
+
+This is what the page will look like when the user scrolls down one of the instruction pages. It will have tools, the steps, links, if needed to outside sites, and videos or picture demonstrations. 
 
 
 
