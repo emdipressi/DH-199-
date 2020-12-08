@@ -12,6 +12,9 @@ Link to Questions and Answers: [Colleen Interview](https://docs.google.com/docum
 
 I interviewed my grandfather, Thomas DiPressi, over the phone about how to make a picture frame from scratch. At first he told me to go to a frame store and then after more explaining, on my mom's end (he is 88), he drew me an "engineer's blueprint" for making a picture frame. Once I recieved this in the mail I called him over the phone again and had him explain some of his drawings. 
 
+Here is the blueprint he sent me:
+![blueprint](gpaframe.png) 
+
 Link to Questions and Answers: [Thomas Interview](https://docs.google.com/document/d/1Y75jBxtU4DGu1mj5DpIeUTsT-O_smlXpNZ5gwcKRqCE/edit?usp=sharing) 
 ### Summary of Findings
 
