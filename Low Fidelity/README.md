@@ -37,7 +37,7 @@ This is what the page will look like when the user scrolls down one of the instr
 
 I made a third iteration of my low fi sketches. This time I used the website Whimsical to design them. I made two options for the “How-to” page: one with a continuous scroll and another that had separate tabs and pages for each of the four main sections of the website direction. After interviewing four users close to me, three out of the four of them preferred a continuous scroll over the separate tabs. 
 
-<img src="lowfi1.png" width="600"> <img src="lofi2.png" width="600"> 
+<img src="lofi1.png" width="600"> <img src="lofi2.png" width="600"> 
 
 
 ## Additional Notes 
