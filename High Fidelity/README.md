@@ -27,4 +27,4 @@ In addition to the changes to the pages, I added a light woodgrain background to
 
 I performed a text accessibility audit with Stark on Figma 
 
-<img src="textaccess1.png" width="500"> <img src="textaccess2.png" width="500"> 
+<img src="textaccess2.png" width="500"> <img src="textaccess1.png" width="500"> 
