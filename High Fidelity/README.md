@@ -26,4 +26,5 @@ In addition to the changes to the pages, I added a light woodgrain background to
 <img src="fihi2proto.png" width="600">  
 
 I performed a text accessibility audit with Stark on Figma 
+
 <img src="textaccess1.png" width="500"> <img src="textaccess2.png" width="500"> 
