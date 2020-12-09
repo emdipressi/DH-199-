@@ -35,3 +35,9 @@ In addition to the changes to the pages, I added a light woodgrain background to
 I performed a text accessibility audit with Stark on Figma 
 
 <img src="textaccess2.png" width="500"> <img src="textaccess1.png" width="500"> 
+
+## Prototype 
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FvEDkQVYuCVfWBsL96ebkSe%2FDH199-Wood-Creations%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FvEDkQVYuCVfWBsL96ebkSe%2FDH199-Wood-Creations%3Fnode-id%3D1%253A253%26scaling%3Dmin-zoom" allowfullscreen></iframe>
