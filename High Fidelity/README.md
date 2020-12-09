@@ -14,7 +14,7 @@ The steps are listed out and pictures are on the side, which does not actually h
 
 ### Usability Test 
 
-I did a usability test with my mom over zoom since she is within the demographics that this project is made for. Her comments were helpful in that she liked a continuous scroll with a jump to feature. She also would have liked to have seen more pictures throughout the steps, which I tried to do in my next iteration. 
+I did a usability test with my mom over zoom since she is within the demographics that this project is made for. Her comments were helpful in that she liked a continuous scroll with a jump to feature. She also would have liked to have seen more pictures throughout the steps, which I tried to do in my next iteration. (The comments say there were by me, but this test was conducted via Zoom and I shared my screen over Zoom and made the comments for her, as I figured that would make it easier on her, instead of her learning how to operate on Figma.)
 
 
 
