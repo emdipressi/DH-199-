@@ -38,9 +38,11 @@ I performed a text accessibility audit with Stark on Figma
 
 ## Prototype 
 
-The link to my Figma high fideilty screens can be found [here](https://www.figma.com/file/vEDkQVYuCVfWBsL96ebkSe/DH199-Wood-Creations?node-id=0%3A1) 
+The link to my final Figma high fideilty screens can be found [here](https://www.figma.com/file/vEDkQVYuCVfWBsL96ebkSe/DH199-Wood-Creations?node-id=0%3A1) 
 
-The link to my Figma prototype presentation can be found [here](https://www.figma.com/proto/vEDkQVYuCVfWBsL96ebkSe/DH199-Wood-Creations?node-id=1%3A253&scaling=min-zoom) 
+The link to my final Figma prototype presentation can be found [here](https://www.figma.com/proto/vEDkQVYuCVfWBsL96ebkSe/DH199-Wood-Creations?node-id=1%3A253&scaling=min-zoom) 
+
+The link to my first Figma high fideilty can be found [here](https://www.figma.com/file/m1IiXojjndJGLFuncrPgE5/DH-199-Frame?node-id=0%3A1) 
 
 
 
